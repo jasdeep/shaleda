@@ -1,4 +1,4 @@
 shaleda
 =======
 
-Gurmukhi Font Convertor
+Utilities for Punjabi language
